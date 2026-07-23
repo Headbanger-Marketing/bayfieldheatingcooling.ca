@@ -1,0 +1,25 @@
+# Bayfield Heating & Cooling
+
+> Bayfield Heating & Cooling is a local HVAC company serving Bayfield, Huron County, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 565-0204  |  Email: contact@bayfieldheatingcooling.ca  |  Website: https://bayfieldheatingcooling.ca
+
+Service areas: Bayfield, Goderich, Clinton, Vanastra, Hensall
+
+## Key pages
+
+- [Home](https://bayfieldheatingcooling.ca/): Bayfield Heating & Cooling homepage with service overview and FAQ
+- [About](https://bayfieldheatingcooling.ca/about/): About the company and service area
+- [Contact](https://bayfieldheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Repair](https://bayfieldheatingcooling.ca/services/furnace-repair/): Furnace Repair in Bayfield, Ontario
+- [AC Repair](https://bayfieldheatingcooling.ca/services/ac-repair/): AC Repair in Bayfield, Ontario
+- [Ductless AC Installation](https://bayfieldheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Bayfield, Ontario
+- [Heat Pump Repair & Installation](https://bayfieldheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pump Repair & Installation in Bayfield, Ontario
+- [Thermostat Repair & Replacement](https://bayfieldheatingcooling.ca/services/thermostat-repair-replacement/): Thermostat Repair & Replacement in Bayfield, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Bayfield are answered on the homepage.
